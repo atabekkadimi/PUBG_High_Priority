@@ -19,5 +19,6 @@ or Create a file in "Text Editor", Copy the codes below and Save it as "PUBG_Hig
 ![image alt](https://github.com/atabekkadimi/PUBG_High_Priority/blob/c758ef66bb746c7b0cc2a4f170c8b665a231f355/ScreenShots/ScreenShot_05.png)
 
 4- Reboot your PC
+
 5- Enjoy it
 
