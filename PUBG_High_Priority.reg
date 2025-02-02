@@ -1,0 +1,17 @@
+    Windows Registry Editor Version 5.00 
+
+	[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\ExecPubg.exe\PerfOptions] 
+
+    "CpuPriorityClass"=dword:00000003
+	
+	[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TslGame.exe\PerfOptions] 
+
+    "CpuPriorityClass"=dword:00000003
+	
+	[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TslGame_BE.exe\PerfOptions] 
+
+    "CpuPriorityClass"=dword:00000003
+	
+	[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\TslGame_ZK.exe\PerfOptions] 
+
+    "CpuPriorityClass"=dword:00000003
